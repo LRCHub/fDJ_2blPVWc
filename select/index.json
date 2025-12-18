@@ -1,0 +1,120 @@
+{
+  "version": 1,
+  "base_track": "High Tide",
+  "base_artist": "Moona Hoshinova",
+  "createdAt": "2025-12-18T04:31:04.942262Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "High Tide Low Tide",
+      "artist": "Billy Ocean",
+      "has_synced": false,
+      "path": "select/01_High_Tide_Low_Tide_Billy_Ocean.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "High Tide",
+      "artist": "The Apples In Stereo",
+      "has_synced": false,
+      "path": "select/02_High_Tide_The_Apples_In_Stereo.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "High Tide",
+      "artist": "Pete Philly & Perquisite",
+      "has_synced": false,
+      "path": "select/03_High_Tide_Pete_Philly_&_Perquisite.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "High Tide or Low Tide",
+      "artist": "The Wailers",
+      "has_synced": true,
+      "path": "select/04_High_Tide_or_Low_Tide_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "High Tide Or Low Tide",
+      "artist": "Ziggy Marley & The Melody Makers",
+      "has_synced": true,
+      "path": "select/05_High_Tide_Or_Low_Tide_Ziggy_Marley_&_The_Melody_Makers.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "High Tide",
+      "artist": "Lemaitre",
+      "has_synced": true,
+      "path": "select/06_High_Tide_Lemaitre.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "High Tide (Oliver Nelson & Tobtok Remix)",
+      "artist": "Lemaitre",
+      "has_synced": false,
+      "path": "select/07_High_Tide_(Oliver_Nelson_&_Tobtok_Remix)_Lemaitre.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "High Tide",
+      "artist": "Moona Hoshinova",
+      "has_synced": true,
+      "path": "select/08_High_Tide_Moona_Hoshinova.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "High Tide Or Low Tide",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/09_High_Tide_Or_Low_Tide_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "High Tide Or Low Tide",
+      "artist": "Ben Harper feat. Jack Johnson",
+      "has_synced": true,
+      "path": "select/10_High_Tide_Or_Low_Tide_Ben_Harper_feat._Jack_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "High Tide Or Low Tide",
+      "artist": "Ben Harper & Jack Johnson",
+      "has_synced": true,
+      "path": "select/11_High_Tide_Or_Low_Tide_Ben_Harper_&_Jack_Johnson.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "High Tide Or Low Tide - Jamaican Version",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/12_High_Tide_Or_Low_Tide_-_Jamaican_Version_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "High Tide or Low Tide (Jamaican Version)",
+      "artist": "Bob Marley & The Wailers",
+      "has_synced": true,
+      "path": "select/13_High_Tide_or_Low_Tide_(Jamaican_Version)_Bob_Marley_&_The_Wailers.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "High Tide",
+      "artist": "Moona Hoshinova",
+      "has_synced": false,
+      "path": "select/pl_01_High_Tide_Moona_Hoshinova.txt"
+    }
+  ]
+}
